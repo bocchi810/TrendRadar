@@ -6,10 +6,6 @@
 
 韩国
 
-英国
-
-日本
-
 德国
 
 Google
@@ -47,5 +43,15 @@ Windows
 QQ
 
 阿里巴巴
+
+Steam
+
+CS2
+
+Telegram
+
+电报
+
+完美世界
 
 腾讯
